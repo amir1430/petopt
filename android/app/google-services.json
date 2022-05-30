@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103614387031",
+    "firebase_url": "https://petopt-d7709-default-rtdb.firebaseio.com",
+    "project_id": "petopt-d7709",
+    "storage_bucket": "petopt-d7709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103614387031:android:21c0401a90db16fd492412",
+        "android_client_info": {
+          "package_name": "com.example.petopt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103614387031-ecqioebobnaiulgv763hvq8o8ai248o8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.petopt",
+            "certificate_hash": "22470a291f64875c4b06cf5b18e80d59e58c7592"
+          }
+        },
+        {
+          "client_id": "103614387031-1jdb594l51eh4ekqpl0tq38j8ao6dht8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqPhvMK2IoB15FRWJR6YG4IsvVsYb0Jhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103614387031-1jdb594l51eh4ekqpl0tq38j8ao6dht8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103614387031-uhbs1til2htpm4rffrg2r4v51eenhscm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.petopt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
